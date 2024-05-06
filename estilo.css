@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+
+}
+
+#reloj {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+    border: 2px solid crimson;
+    color: crimson;
+    border-radius: 50%;
+    font-family: serif;
+    font-size: 50px;
+
+}
